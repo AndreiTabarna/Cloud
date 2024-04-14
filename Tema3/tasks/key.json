@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "emerald-folio-419810",
+  "private_key_id": "8977bad78eff817ccf53cd0512e3d14d36f193d3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDppjpUR/1LxBUq\nKweXkJTQ9QGP5tY885+KjooDlEWNAgmypuAJn15ktKq0S/eaiMPCmC6oLmm51tLH\nbivCV5YOyPSUXH4R6dUL2Yly87hWGBCqoIiL6wou7+pMRsh8q+9lgipbooUTezza\naI4EKo17CCemSsCV0QlMjLMsZCqoO47P+wrC4peyJX/5yO6QyNUWP4aHL/tLFVit\nCibogUXW/FatBg56P9UMRISONw0xwoO6IDJEgLPpbqzZloGrNLdri//PAP6AndXW\n5C5aeL+bg9YNvNhZcrcNjy0oMU3oktoDprGvyQlU7uXJqj93xsLu9lVz0/wPYVyb\ny6xaketnAgMBAAECggEAMH5BqPBwD+OYiPH5V2m4mU3gjx9X47qkqDtBRdDmRoff\nv2aHJTggfUJKE7WYpEgyaRbwyBMp+lot0Rp6lpFbIaJvsMMpn0oq35S8xFD1N1kz\nTFaZQID90hQVStN+FPISc7z6UZ5/hDWVwbblktPKHXjp0ce+BNon1e112obHm7ar\nPR25wmfUI3q1i5VuIL1F6EHrTXY7Brfd2ezRT9VbE+5dzDCvQBTNGhTa+dzFoVzI\n4o112HkAqLguKYnI/SGAMcdFAGSMBUEMAsR3CV68f6nUsFXGjYs8Nf8YvNL3uyll\nmIsJCbdtyOeNF7xc8ek4c48uzJKeMH2HP79EMVYHcQKBgQD2oLND6w+AUBR+Sqfd\nJEeDS5SG+SIywYmM4nVgnbUviXCJa5qUYMi6kv+XsKlyrgvJigbains+QR2MWorw\nynDq8PZ3qVWhf9z+7lZ6/LwroeXH6jtAOLR5wFYLgyuidqBltKcH8EP00FKOXUCi\n775gg4/1C3uq05XfQJlGhRShfQKBgQDyh0Si0VICIO4+gd2esHWZzwmjKBd8VT7F\nUidAiiKlPb9DSfST8d2Kl1h6nCMMyqkFaHrAXxA9zX2ti1rd4BP85j+7a9d4rFdE\n0z1NUrZBuIdtEUdr39DDghW8DTgslzqGCfPGt8tnZfumXwW8VVOV3F53EoiFknNz\neFv+KGjVswKBgAnnmkt3/T9h9/C6ftNayaR0PJrPFpiDPUrzLVOcAdLO6j4anDKp\nUGZt0OX+qk94vfByIqRUO27cnpssZ7gT6UUGOF/F5TJ/OBjk6YQ28jeuYNQOjCKg\nJF9fYhVER1RW/0oWXz7qX1BNrYMaK6Zfin3FytpEg8rwhGxa48z5O0LhAoGBAMuf\nppDNDf2biGwSvO+vWA17Nqw1zQIm0Dz7bNlTISN7ZEoqnZ5ZQ5hI2ZCX5xWmUaKo\nxecd6ZT6IrrCddgzepSq/HdvY8l9aQfwE1gISd2EALAiAcUgdTaw0W7B6pgFoK1J\nTdNaHP0DMvXMchRdz3/TNbzjYpxDCYu5UgNiCiLhAoGBAKR3w9cBrAa1J9ujfVxZ\nTnKRPngG3E+UfY1eedUFR5hNdY301s72SJ1dk5bjl+PjiQMMnxLzDRGuTMlkP+gt\nKbfQEHcWvPU3x9EZQmSYcoZEDOP8Rc6amlZRcYdGcYzP4zHhD57IKX9RovVDnmZD\nq559af4nNLRVnFKyJRNDdlbs\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-computing-homework@emerald-folio-419810.iam.gserviceaccount.com",
+  "client_id": "114300240575159128444",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-computing-homework%40emerald-folio-419810.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

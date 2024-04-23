@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "emerald-folio-419810",
+  "private_key_id": "fd154ea0db59754fe29953c2f4d72d9e1cd4d5c2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5k1W/HJRMNSxk\nYADStxRzimXEKsXwIzbKCK6fJyUFYvV8a5mb3Zvcv4aZZrCiFrRYC7RsXEvuCoTE\n86qItcOlcFAcZgoVRUU9m/pAqvQItyF7sO+q3E3xFb9zJQSkklUb2XyGJCT2/H58\njMeEaUtLumdT2o3pRMXAO/n1qFzi5S/ilBcLW7N72GsZTK+597LJs5kSQWtPQ+fJ\n6Zyj7gyuJiuf5Fgq6mwv7CpuEI1nfQ7ClEJjHHoTjaESBwLr0kwt+GTsNVC3TySw\nSwMoNpKJIy10PqG046vZ4ugPJmQxNmB24Cm75+YfRGpCU6HVI+1QL+qw1bKgpO2c\n0S6NbiHbAgMBAAECggEASHSSIhAShr6sGnSxXZRF0+bRXQomRmA5YCCLrXAnMDc3\nCeEpFIYt+L5+2x4REPg0abwIMdbHfqV0uUE58C6nuMxlOvFMNonZQvjHeMBGj7CQ\nzi6DJP7nH54SJe7qJSdNO5Zq3CT4mcZzzEVbEQPbdjHNbhwDFHTZkPjZ22Rk/+E3\nz8BCiUc67xZsoVpvam+Jc0FGvYEiKOtKswAV9mvNL0mpP8BRxpDPWf4eqmehSCpr\niOdyvzqn9o01CVZrVrC6EiR6iXtm2JDzIipwUj1CWG8SZMZv6eMwGwDMOfA02S1P\n86rpVloWhwGCu7A9dHqbL6HdRf2htpXogR7rN9QYwQKBgQD+sF+RSXW8s7HqhxQo\nxuUSo3kfcuyBplTVmYwSMdbYCtBsN+5gyjvtCxDUtf+ftUfo4FEaM0MsgdXPzSB9\nkHcWmOnF3gyvV88P9Y3jGvfJMCY8UkyIsVD9Eqr88wVZBrXMFf2susic8ko5VoJq\nOVdERsAw++3FqzHRF/SrsXC1uQKBgQC6h+J2Df8NursDwUCQL2Q5l+T5nVT/Ama7\nIAzF9++NDG+N7cSRYYlCkUr7CAAp7SiBSx8kwi7zg9HfsMGoKX4EnFClPRTRWxmt\nDLiywPQlSzUZl9UoQgLgGXKsdAGFXpXHO4TBGoo1CQpC4KmMFLxLxVBhtPT5hcLW\nfvHB+0BeMwKBgQDVtogq8Np0AtFre/elk+hKsJQFmLjuvfT328WWyu1+Eez8sh48\nZ9bLPPrdku6yRDrYJcrIUnWuljAlE/qMgrn7Y0re90nrpKIiwSlThaCg2N9sxJ5m\nIWxVP+HtKbu2DZRlcZqQ45dNY153KKl8mysoJrpFIFFQCixeSVzM6bMrOQKBgEiu\nKc9WJMt0tun/ouiLjsHiLZYVd8jlZqIDGvcIZI7RCaaDvtPm7VTCyDSIKYgsoFvA\nqaHpB+Jauqwuc0bS5Adn4QSBiFsK5DZJfq4oAPmHFGmkf6nwDq7DO6t2iCEveazn\nxBJ6BOAlZZopb+blLXlYqLlpiQqw0/o//HNZMvuBAoGASIavsW7EqdB5NN/flQjF\nFrVLgseLTGUclU6awENfhUCVqxntJoHTmTTKbQWn+X7P6ya3aHe9V5AW5s+q2Mgf\n5+1L1AaS9rovuVttIQx9ffALcTS0w6DhpiYnOXlI1e8QIowgAwvlCfVIBMBF6O7x\nvJ+SwjrariRWGtHPL4HgsxM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firstserviceacc@emerald-folio-419810.iam.gserviceaccount.com",
+  "client_id": "117040492781022711594",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firstserviceacc%40emerald-folio-419810.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
